@@ -30,7 +30,7 @@ This project is a browser extension designed to scrape job information from Link
 ## Setup
 
 1. **GitHub Repository:**
-   - [[Link to Repository](#)](https://github.com/NiranjanKumbhar/LinkedIn-Web-Client)
+   - [[Link to Repository](#)](https://github.com/Sanikadalal/jobscrapper)
 
 2. **Backend Framework:**
    - Node.js with Express
